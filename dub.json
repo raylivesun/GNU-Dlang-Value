@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"admin"
+	],
+	"copyright": "Copyright ® 2024, admin",
+	"description": "Checked integer math module for the D Programming Language",
+	"license": "MIT",
+	"name": "check"
+}
